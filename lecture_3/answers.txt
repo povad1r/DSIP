@@ -1,0 +1,16 @@
+4. CPU model: Apple M4 Pro
+- 14 cores (10 performance cores + 4 efficiency cores)
+- Performance cores run up to 4.5 GHz, efficiency cores run up to 2.6 GHz
+RAM:
+- RAM type: unified memory, LPDDR5
+- Speed: 273 GB/s
+- I have 24 GB RAM in my laptop
+GPU:
+- It is part of M4 pro chip; 20-core GPU
+- It shares the same unified memory pool, so there is no separate VRAM; 
+Firmware/BIOS:
+- System Firmware Version: 11881.41.5
+- Last time it was updated: 21.07.2025, 21:38:21 
+5. - Default boot device: Internal SSD (macOS). Other possible boot options: External USB disk or Network boot
+- If the USB contains a valid operating system, it can be selected in Startup Options at boot.
+6. My current resolution is 3024 x 1964. On the built-in display, macOS does not allow orientation change. However, if an external monitor is used, setting it to portrait mode rotates the screen 90°. I think portrait mode could be useful for coding. After changing the resolution to 800×600, the screen looked very pixelated, icons and text became oversized.

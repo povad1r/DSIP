@@ -1,0 +1,17 @@
+.txt: 68 65 6C 6C 6F 20 77 6F 72 6C 64 21 20
+.doc: 00001840
+(1bit).bmp: 62
+(24bit).bmp: 54
+The file "hello_world.txt" didn't open after changing it to "hello_world.exe" because there is nothing to execute in this file, and PC didn't understand what to do with this file. The changing of the extension didn't change the bytes inside the file.
+
+When I try to write something to the file "hello_world.txt" it says that the file is protected and to remove this protection I should create a copy of this file or change the permission
+
+7.1 My MacBook has only 1 internal physical disk
+2. The characteristics of my disk:
+- Disk model: APPLE SSD AP1024Z
+- Capacity: 1 TB
+- Read speed: 2,981 MBytes/Sec. Write speed: 2,682 MBytes/Sec
+Partitions:
+- disk0s1: 524.3MB, it is a system container with boot info
+- disk0s2: 994.7GB, it is a main container holding OS and data
+- disk0s3: 5.4GB, it is a recovery container

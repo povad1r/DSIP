@@ -1,0 +1,11 @@
+5. 268 active drivers are currently running on my laptop
+WIFI driver: 
+- com.apple.iokit.IO80211Family (1200.13.1)
+Location: /System/Library/Extensions/IO80211Family.kext
+Network drivers: 
+- com.apple.iokit.IONetworkingFamily (3.4)
+Location: /System/Library/Extensions/IONetworkingFamily.kext
+- com.apple.driver.usb.networking (5.0.0)
+Location: /System/Library/Extensions/usb.networking.kext
+6. My browser is Google Chrome and it uses 355,5 MB of RAM and 0,4% of CPU
+The location of my browser is: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"

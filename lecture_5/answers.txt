@@ -1,0 +1,8 @@
+4. IP from ifconfig.me: 145.118.199.86
+IP locally: 145.118.199.86
+After activating VPN my IP adress didnt change, because I am connected to the same network.
+My IP adress is not private.
+My location according to IP is: 52.1583, 4.4931
+The first hop is 145.118.196.1 (early-registration.of.surfnet.invalid)
+The lsat hop is ams15s42-in-f3.1e100.net (142.250.179.195). It is a Google server in Amsterdam and it is an endpoint, so it is the geo-location of the Google data center that is used for my Google search.
+5. 
